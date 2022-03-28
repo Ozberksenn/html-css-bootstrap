@@ -1,0 +1,77 @@
+.clear{
+    clear: both;
+}
+.logo{
+    margin-top: 50px;
+    margin-left: 40%;
+}
+
+.center{
+    text-align: center;
+}
+.font{
+    font-size: 18px;
+}
+.search{
+    text-align: center;}
+.button{
+    text-align: center;
+}
+
+
+.content{
+    width: 100%;
+    height: 70px;
+    background-color: rgb(241, 237, 237);
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1px;
+    margin-bottom: 2px;
+}
+.box-one{
+    width: 40%;
+    height: 100px;
+    background-color: rgb(133, 198, 202); 
+    float: left;
+    margin-right: 1px;
+    
+   
+}
+.box-two{
+    width: 19%;
+    height: 100px;
+    background-color: rgb(85, 191, 199);
+    float: left;
+    margin-right: 1px;
+    
+}
+.box-three{
+    width: 40.8%;
+    height: 100px;
+    background-color: rgb(25, 156, 165);
+    float: left;
+}
+
+
+
+.box-one-font{
+    padding-top: 5px;
+    text-align: center;
+    font-size: 16px;
+    list-style-type: none;
+}
+.box-two-font{
+    text-align: center;
+    font-size: 16px;
+    list-style-type: none;
+
+}
+.box-three-font{
+    text-align: center;
+    font-size: 16px;
+    list-style-type: none;
+}
+.copy-right{
+    text-align: center;
+    font-size: 16px;
+}
